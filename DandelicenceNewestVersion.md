@@ -1,4 +1,5 @@
 # Dandelicence
+you license all my hackera
 
 ## A licence that works on good faith, because why can't we all just be friends instead of bickering?
 
